@@ -1,0 +1,46 @@
+lightweight tag af888812bf35a3e6a88944cc024147276db094f5 v3.34
+Author:	FireSiku <chaoslux@gmail.com>
+Date:	Tue Nov 24 23:21:28 2020 -0500
+
+commit af888812bf35a3e6a88944cc024147276db094f5
+Author: FireSiku <chaoslux@gmail.com>
+Date:   Tue Nov 24 23:21:28 2020 -0500
+
+    Bump TOC and Version
+
+commit bddecc1aea9725188d4fec8a6204bd803744f3e9
+Author: FireSiku <chaoslux@gmail.com>
+Date:   Tue Nov 24 19:48:10 2020 -0500
+
+    Unitframes: Unit Classification should show correctly.
+
+commit 6b4a1fd549e8328ddd8ff5e8eaafbbf164affa59
+Author: FireSiku <chaoslux@gmail.com>
+Date:   Tue Nov 24 19:06:08 2020 -0500
+
+    ExpBar: Absolute Values now support XP/Rep
+
+commit 6ce17563c79656a1f0877760b48420436789c381
+Author: FireSiku <chaoslux@gmail.com>
+Date:   Tue Nov 24 19:01:48 2020 -0500
+
+    ExpBar: Code cleanup
+
+commit 1c785ca5b6c8e46f4f29c42ab035548ad3f288c3
+Author: FireSiku <chaoslux@gmail.com>
+Date:   Mon Nov 23 21:01:54 2020 -0500
+
+    Minimap: Keep track of Garrison default state.
+
+commit fe8624a7052406206eedf4add70c84dd1a354c91
+Author: FireSiku <chaoslux@gmail.com>
+Date:   Mon Nov 23 17:03:10 2020 -0500
+
+    Bars: Fix for LUI Bars being hidden but functional
+
+commit 99b51b1c9f22d373a52d2ed961ddeaeedb37fff9
+Author: jewebr <47604279+jewebr@users.noreply.github.com>
+Date:   Sat Nov 14 03:49:32 2020 +0100
+
+    Debuffs should now correctly fade. (#5)
+
